@@ -42,6 +42,7 @@ cd backend
 npm install
 npx tsc
 npm run dev
+```
 
 ### 📦 frontend Setup
 
@@ -49,6 +50,7 @@ npm run dev
 cd frontend/vite-project
 npm install
 npm run dev
+```
 
 👨‍💻 Author
 ##Shivam Singhal
