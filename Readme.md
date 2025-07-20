@@ -52,6 +52,9 @@ npm install
 npm run dev
 ```
 
-👨‍💻 Author
-##Shivam Singhal
-###📧 shivam.singhal.211@gmail.com
+## 👨‍💻 Author  
+**Shivam Singhal**
+
+### 📧 Contact  
+**shivam.singhal.211@gmail.com**
+
